@@ -4,5 +4,4 @@ def square_array(array)
   while i < array.length do
     array[i] * array[i]
     i++
-  end 
 end
